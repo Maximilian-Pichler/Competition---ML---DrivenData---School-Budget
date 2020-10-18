@@ -5,8 +5,16 @@ At the time of writing this, I am hodling place 42 on the leaderboard.
 ## supervised learning
 The main goal was to learn about Sklearn's machine learning/label prediction capabilities.
 
-__The process was as follows:__
+__The process:__
 - data parsing & formatting & cleaning & transforming
 - feature extraction
 - trainingset splits
 - model training
+
+__Future Improvements:__
+- implement CrossValidation
+- implement HyperParameter Optimization
+- model persistence (pickle)
+- simplify multilabelling & text merging functions
+
+
