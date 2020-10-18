@@ -11,7 +11,8 @@ __The process:__
 - trainingset splits
 - model training
 
-__Future Improvements:__
+
+## Future Improvements:
 - implement CrossValidation
 - implement HyperParameter Optimization
 - model persistence (pickle)
